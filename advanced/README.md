@@ -1,3 +1,5 @@
+Create a CounterReducer, along with its action types and action creators, to keep track of a counter that can be incremented, decremented and reset.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
